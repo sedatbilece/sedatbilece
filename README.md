@@ -1,7 +1,7 @@
 ### Hi  👋 , I'm Sedat Bilece
-**I'm happy to learn and try new things :computer:**
+**  :iphone: I'm happy to learn and try new things :computer:**
 ***
-
+:e-mail: Contact : ..... :mailbox_closed:
 
 
 
