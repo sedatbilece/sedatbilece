@@ -1,5 +1,5 @@
 ### Hi  👋 , I'm Sedat Bilece
-**I'm happy to learn and try new things**
+**I'm happy to learn and try new things :computer:**
 ***
 
 
