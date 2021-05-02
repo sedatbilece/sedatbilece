@@ -1,7 +1,7 @@
 ### Hi  👋 , I'm Sedat Bilece
  :iphone:  **I'm happy to learn and try new things ** :computer:
 ***
-:e-mail: Contact : [sent a mail](sedatbilece.contact@gmail.com) :mailbox_closed:
+:e-mail: Contact : sedatbilece.contact@gmail.com :mailbox_closed:
 
 
 
