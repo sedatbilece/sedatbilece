@@ -3,7 +3,7 @@
 ***
 :e-mail: Contact : sedatbilece.contact@gmail.com :mailbox_closed:
 
-
+[Cv ](https://github.com/sedatbilece/sedatbilece/blob/main/cv-sedat-bilece.pdf)
 
 
 <!--
