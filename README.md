@@ -3,7 +3,7 @@
 ***
 :e-mail: Contact : seda1tbilece@gmail.com :mailbox_closed:
 
- :page_facing_up: [Cv'ye Git ](https://github.com/sedatbilece/sedatbilece/blob/main/cv-sedat-bilece.pdf)  :page_facing_up:
+
 
 
 <!--
