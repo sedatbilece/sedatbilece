@@ -2,6 +2,7 @@
  :iphone:  **I'm happy to learn and try new things**  :computer:
 ***
 :e-mail: Contact : sedatbilece.contact@gmail.com :mailbox_closed:
+(My Static Github Page)[https://sedatbilece.github.io/]
 
 
 
