@@ -12,28 +12,28 @@
 	<a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 		<img align="center" src="/images/html.png" alt="Html" height="40" width="40" />
 	</a>
-	<a href = "https://www.jetbrains.com/idea/" target="_blank">
+	<a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 		<img align="center" src="/images/css.png" alt="Css" height="40" width="40" />
 	</a>
-	<a href = "https://firebase.google.com/" target="_blank">
+	<a href = "https://tailwindcss.com/" target="_blank">
 		<img align="center" src="/images/tailwind.svg" alt="Tailwind" height="40" width="40" />
 	</a>
-	<a href = "https://kotlinlang.org/" target="_blank">
+	<a href = "https://www.javascript.com/" target="_blank">
 		<img align="center" src="/images/js.png" alt="Javascript" height="40" width="40" />
 	</a>
-	<a href = "https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank">
+	<a href = "https://reactjs.org/" target="_blank">
 		<img align="center" src="/images/react.png" alt="React" height="40" width="40" />
 	</a>
-	<a href = "https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank">
+	<a href = "https://www.php.net/" target="_blank">
 		<img align="center" src="/images/php.png" alt="Php" height="40" width="40" />
 	</a>
-	<a href = "https://jupyter.org/" target="_blank">
+	<a href = "https://www.mysql.com/" target="_blank">
 		<img align="center" src="/images/mysql.png" alt="MySQL" height="40" width="40" />
 	</a>
-	<a href = "https://git-scm.com/" target="_blank">
+	<a href = "https://code.visualstudio.com/" target="_blank">
 		<img align="center" src="/images/vscode.png" alt="VsCode" height="40" width="40" />
 	</a>
-	<a href = "https://www.sourcetreeapp.com/" target="_blank">
+	<a href = "https://git-scm.com/" target="_blank">
 		<img align="center" src="/images/git.png" alt="Git" height="40" width="40" />
 	</a>
 </p>
