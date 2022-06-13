@@ -1,8 +1,4 @@
-### Hi , I'm Sedat 
- :iphone:  **I'm happy to learn and try new things**  :computer:
- 
- <h3 align="center">Trying to be a curious web developer</h3>
-***
+
 <h3 align="center">My Interests</h3>
 
 
@@ -44,11 +40,6 @@
  
 	
 </p>
-
-
-#
-[My Static Github Page](https://sedatbilece.github.io/)
-
 
 
 
