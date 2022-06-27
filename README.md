@@ -4,7 +4,7 @@
 
 
 <p align="center"><img src="images/giphy.gif"height="200" width="300"></p>
-<h5 align="center"> 💻 Trying to be a curious Web Developer  ⌨️ </h5>
+<h5 align="center"> 💻 Trying to be a curious Web Developer . ⌨️ </h5>
 
 <h3 align="left">My Interests:</h3>
 
