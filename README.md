@@ -52,4 +52,5 @@
 </p>
 
 [Open my CodeWars Profile](https://www.codewars.com/users/sedatbilece)
+<p></p>
 ![CodeWars](https://www.codewars.com/users/sedatbilece/badges/large) 
