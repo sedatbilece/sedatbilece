@@ -50,6 +50,6 @@
 	</a>
 	
 </p>
-<p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sedatbilece.visitor-badge)
-</p>
+
