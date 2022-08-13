@@ -51,5 +51,11 @@
 	
 </p>
 
-[Open my CodeWars Profile](https://www.codewars.com/users/sedatbilece)
+
+
+<p align="center">
+
 ![CodeWars](https://www.codewars.com/users/sedatbilece/badges/large) 
+[CodeWars Profile](https://www.codewars.com/users/sedatbilece)
+[CodeWars Katas](https://github.com/sedatbilece/JAVASCRIPT/tree/master/CodeWars)
+ </p>
