@@ -51,11 +51,10 @@
 	
 </p>
 
-
-
-<p align="center">
+<p align="left">
 
 ![CodeWars](https://www.codewars.com/users/sedatbilece/badges/large) 
 [CodeWars Profile](https://www.codewars.com/users/sedatbilece)
 [CodeWars Katas](https://github.com/sedatbilece/JAVASCRIPT/tree/master/CodeWars)
  </p>
+
