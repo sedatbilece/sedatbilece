@@ -5,7 +5,7 @@
 
 <p align="center"><img src="images/giphy.gif"height="200" width="300"></p>
 <h5 align="center">  🏢	 Computer Engineering student. 📚 </h5>
-<h5 align="center"> 💻  Jr.Full-Stack Developer ambitious to learn. ⌨️ </h5>
+<h5 align="center"> 💻  Jr.Full-Stack Developer (Backend Developer who willing to learn Frontend). ⌨️ </h5>
 <h3 align="left">🕹️ My Interests:</h3>
 
 <p align="left">
