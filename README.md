@@ -59,17 +59,15 @@
 <br>
 <p align="left">
 
-[CodeWars Profile](https://www.codewars.com/users/sedatbilece)
-
-![CodeWars](https://www.codewars.com/users/sedatbilece/badges/large) 
+  [CodeWars Profile](https://www.codewars.com/users/sedatbilece)  :abacus:     ![CodeWars](https://www.codewars.com/users/sedatbilece/badges/large) 
 
  </p>
  
  
- ## General Repos :arrow_down:
+ ##  :octocat: General Repos :arrow_down:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sedatbilece&repo=Web-Projects)](https://github.com/sedatbilece/Web-Projects)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sedatbilece&repo=JAVASCRIPT)](https://github.com/sedatbilece/JAVASCRIPT)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sedatbilece&repo=Web-Frontend)](https://github.com/sedatbilece/Web-Frontend)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sedatbilece&repo=Java)](https://github.com/sedatbilece/Java)
  
-  ## Projects' Repos :arrow_down:
+  ## :octocat: Projects' Repos :arrow_down:
