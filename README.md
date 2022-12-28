@@ -24,6 +24,9 @@
 	<a href = "https://reactjs.org/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/react.png" alt="React" height="40" width="40" />
 	</a>
+	<a href = "https://www.java.com/tr/" target="_blank" style="margin-left:10px">
+		<img align="center" src="/images/java.png" alt="Spring" height="40" width="40" />
+	</a>
 	<a href = "https://spring.io/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/spring.svg" alt="Spring" height="40" width="40" />
 	</a>
@@ -64,5 +67,27 @@
 
  </p>
  
- 
+
+ <p align="left">
+	
+<h3 align="left"> :package: Language Repositories </h3>
+
+<a href="https://github.com/sedatbilece/JAVASCRIPT" target="_blank" style="margin-left:40px">
+		<img align="center" src="/images/js.png" alt="javascript" height="40" width="40" />
+	</a>
+	<a href="https://github.com/sedatbilece/Java" target="_blank" style="margin-left:40px">
+		<img align="center" src="/images/java.png" alt="java" height="45" width="45" />
+	</a>
+	<a href = "https://github.com/sedatbilece/PHP" target="_blank" style="margin-left:10px">
+		<img align="center" src="/images/php.png" alt="Php" height="40" width="40" />
+	</a>
+	<a href = "https://github.com/sedatbilece/C-language" target="_blank" style="margin-left:10px">
+		<img align="center" src="/images/c.png" alt="Php" height="40" width="35" />
+	</a>
+	<a href = "https://github.com/sedatbilece/Python" target="_blank" style="margin-left:10px">
+		<img align="center" src="/images/python.png" alt="Php" height="40" width="35" />
+	</a>
+	
+
+ </p>
 
