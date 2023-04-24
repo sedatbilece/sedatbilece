@@ -6,8 +6,23 @@
 <p align="center"><img src="images/giphy.gif"height="200" width="300"></p>
 <h5 align="center">  🏢	 Computer Engineering student. 📚 </h5>
 <h5 align="center"> 💻  Jr.Full-Stack Developer (Backend Developer who willing to learn Frontend). ⌨️ </h5>
-<h3 align="left">🕹️ My Interests:</h3>
 
+
+
+<br>
+<h3 align="left">📧 Connect with me : </h3>
+
+<p align="left">
+	<a href="mailto:sedatbilece.contact@gmail.com" target="_blank" style="margin-left:10px">
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="40" width="40" />
+	</a>
+	<a href="https://www.linkedin.com/in/sedat-bilece-504a92197/" target="_blank" style="margin-left:10px">
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" height="40" width="40" />
+	</a>
+	
+</p>
+
+<h3 align="left">🕹️ Languages and Tools :</h3>
 <p align="left">
 	<a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/html.png" alt="Html" height="40" width="40" />
@@ -47,18 +62,6 @@
 	</a>
 </p>
 
-<br>
-<h3 align="left">📧 Contact</h3>
-
-<p align="left">
-	<a href="mailto:sedatbilece.contact@gmail.com" target="_blank" style="margin-left:10px">
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="40" width="40" />
-	</a>
-	<a href="https://www.linkedin.com/in/sedat-bilece-504a92197/" target="_blank" style="margin-left:10px">
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" height="40" width="40" />
-	</a>
-	
-</p>
 <br>
 <p align="left">
 
