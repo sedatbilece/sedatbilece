@@ -42,6 +42,10 @@
 	<a href = "https://dotnet.microsoft.com/en-us/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/netcore.png" alt="Asp.Net Core" height="40" width="40" />
 	</a>
+	</a>
+	<a href = "https://www.microsoft.com/tr-tr/sql-server" target="_blank" style="margin-left:10px">
+		<img align="center" src="/images/sql-server.png" alt="SQL Server" height="40" width="40" />
+	</a>
 	<a href = "https://code.visualstudio.com/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/vscode.png" alt="VsCode" height="40" width="40" />
 	</a>
