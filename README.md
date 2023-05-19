@@ -4,8 +4,8 @@
 
 
 <p align="center"><img src="images/giphy.gif"height="200" width="300"></p>
-<h5 align="center">  🏢	 Computer Engineering student. 📚 </h5>
-<h5 align="center"> 💻  Jr.Full-Stack Developer (Backend Developer who willing to learn Frontend). ⌨️ </h5>
+<h5 align="center">  🏢	 Computer Engineering Student. 📚 </h5>
+<h5 align="center"> 💻  Jr. Backend Developer (.NET) ⌨️ </h5>
 
 
 
