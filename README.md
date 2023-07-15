@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 🥳  , I'm Sedat</h1>
 
-
-
-<p align="center"><img src="images/giphy.gif"height="200" width="300"></p>
+<p align="center"></p>
 <h5 align="center">  🏢	 Computer Engineering Student. 📚 </h5>
 <h5 align="center"> 💻  Jr. Full-Stack Developer ⌨️ </h5>
 
@@ -22,7 +20,7 @@
 	
 </p>
 
-<h3 align="left">🕹️ Languages and Tools :</h3>
+<h3 align="left">🕹️ Tech Stack:</h3>
 <p align="left">
 	<a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/html.png" alt="Html" height="40" width="40" />
@@ -43,20 +41,11 @@
 		<img align="center" src="/images/netcore.png" alt="Asp.Net Core" height="40" width="40" />
 	</a>
 	</a>
-	<a href = "https://www.microsoft.com/tr-tr/sql-server" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/sql-server.png" alt="SQL Server" height="40" width="40" />
-	</a>
-	<a href = "https://code.visualstudio.com/" target="_blank" style="margin-left:10px">
+        <a href = "https://code.visualstudio.com/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/vscode.png" alt="VsCode" height="40" width="40" />
 	</a>
-	<a href = "https://www.php.net/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/php.png" alt="Php" height="40" width="40" />
-	</a>
-	<a href = "https://www.java.com/tr/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/java.png" alt="Spring" height="40" width="40" />
-	</a>
-	<a href = "https://spring.io/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/spring.svg" alt="Spring" height="40" width="40" />
+	<a href = "https://www.microsoft.com/tr-tr/sql-server" target="_blank" style="margin-left:10px">
+		<img align="center" src="/images/sql-server.png" alt="SQL Server" height="40" width="40" />
 	</a>
 	<a href = "https://www.mysql.com/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/mysql.png" alt="MySQL" height="40" width="40" />
