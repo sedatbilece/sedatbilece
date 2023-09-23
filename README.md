@@ -3,7 +3,7 @@
 
 <p align="center"></p>
 <h5 align="center">  🏢	 Computer Engineering Student. 📚 </h5>
-<h5 align="center"> 💻  Jr. Full-Stack Developer ⌨️ </h5>
+<h5 align="center"> 💻  Jr. Backend Developer (related to the frontend) ⌨️ </h5>
 
 
 
