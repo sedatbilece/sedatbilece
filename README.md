@@ -68,7 +68,10 @@
 	
 <h3 align="left"> :package: Language Repositories </h3>
 
-<a href="https://github.com/sedatbilece/JAVASCRIPT" target="_blank" style="margin-left:40px">
+<a href="https://github.com/sedatbilece/Codewars_Csharp_Cases/tree/master/Codewars_C%23_Cases/Cases" target="_blank" style="margin-left:40px">
+		<img align="center" src="/images/csharp.png" alt="csharp.png" height="40" width="40" />
+	</a>
+	<a href="https://github.com/sedatbilece/JAVASCRIPT" target="_blank" style="margin-left:40px">
 		<img align="center" src="/images/js.png" alt="javascript" height="40" width="40" />
 	</a>
 	<a href="https://github.com/sedatbilece/Java" target="_blank" style="margin-left:40px">
