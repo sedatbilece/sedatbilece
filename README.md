@@ -49,19 +49,6 @@
 	<a href = "https://www.docker.com/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/docker.png" alt="Docker" height="40" width="40" />
 	</a>
-	<a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/html.png" alt="Html" height="40" width="40" />
-	</a>
-	<a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin-left:10px" >
-		<img align="center" src="/images/css.png" alt="Css" height="40" width="40" />
-	</a>
-	<a href = "https://tailwindcss.com/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/tailwind.svg" alt="Tailwind" height="40" width="40" />
-	</a>
-	</a>
-        <a href = "https://code.visualstudio.com/" target="_blank" style="margin-left:10px">
-		<img align="center" src="/images/vscode.png" alt="VsCode" height="40" width="40" />
-	</a>
 	<a href = "https://git-scm.com/" target="_blank" style="margin-left:10px">
 		<img align="center" src="/images/git.png" alt="Git" height="40" width="40" />
 	</a>
