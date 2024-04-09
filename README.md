@@ -2,7 +2,6 @@
 <h1 align="center">Hi 🥳  , I'm Sedat</h1>
 
 <p align="center"></p>
-<h5 align="center">  🏢	 Computer Engineering Student. 📚 </h5>
 <h5 align="center"> 💻  Backend Developer (related to the frontend) ⌨️ </h5>
 
 
